@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the definition of Machine Learning according to Arthur Samuel?,a: A field of study that gives computers the capability to learn with human assistance | b: A field of study that gives computers the capability to learn without being explicitly programmed | c: A field of study that gives computers the capability to learn only with programming | d: A field of study that gives computers the capability to learn only with data,b
+Which branch of artificial intelligence does Machine Learning belong to?,a: Robotics | b: Computer Vision | c: Machine Learning | d: Natural Language Processing,c
+What type of data is used to train machine learning models?,a: Low quality data | b: Good quality data | c: No data | d: Random data,b
+What is a common application of machine learning?,a: Image and speech recognition | b: Portfolio optimization | c: Fraud detection | d: All of the above,d
+What type of learning is used to improve recommendation-based systems?,a: Collaborative learning | b: Reinforcement learning | c: Supervised learning | d: Unsupervised learning,b
